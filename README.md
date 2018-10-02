@@ -59,7 +59,7 @@ browsers:
   - ^https?://localhost  
 ```
 
-**debug** set to try will forward debug messages to the syslog. Enable only for debugging purposes.
+**debug** set to true will forward debug messages to the syslog. Enable only for debugging purposes.
 
 ## License
 
