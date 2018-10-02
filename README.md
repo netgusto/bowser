@@ -59,6 +59,8 @@ browsers:
   - ^https?://localhost  
 ```
 
+**debug** set to try will forward debug messages to the syslog. Enable only for debugging purposes.
+
 ## License
 
 See the LICENSE file.
