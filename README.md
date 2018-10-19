@@ -1,4 +1,4 @@
-# ⭐ Bowser - Default browser dynamic switch
+# ⭐ Bowser - Dynamic Default Browser Switch
 
 Bowser is a MacOS application that selects the browser to open for a URL based on rules you define.
 
