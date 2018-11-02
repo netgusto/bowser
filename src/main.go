@@ -38,9 +38,9 @@ func main() {
 			note.Push()
 		}
 		log.Println("Done")
-	case <-time.After(300 * time.Millisecond):
+	case <-time.After(1000 * time.Millisecond):
 		open.RunWith("https://github.com/netgusto/bowser", "Safari")
-		log.Println("Not received any URL after .1s; exiting")
+		log.Println("Not received any URL after 1s; exiting")
 	}
 }
 
